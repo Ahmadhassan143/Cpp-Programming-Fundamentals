@@ -1,1 +1,1 @@
-I will upload my all codes of programming fundamentals that i did as my course assingments or the codes that i write for my friends
+This is a set of codes of C++ beginner level codes trying to help understand fundamental concepts about how to code.
